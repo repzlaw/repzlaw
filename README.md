@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- - 🔭 Check me out on LinkedIN @ https://www.linkedin.com/in/david-ibitoye-1677a0123/ ... -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=repzlaw&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Github Stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=repzlaw&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repzlaw&layout=default&theme=radical&count_private=true&show_icons=true&langs_count=10)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=repzlaw.repzlaw&theme=radical)
