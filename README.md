@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=repzlaw&count_private=true&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=repzlaw&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repzlaw&layout=default&theme=radical&count_private=true&show_icons=true&langs_count=10)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=repzlaw.repzlaw&theme=radical)
