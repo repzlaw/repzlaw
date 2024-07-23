@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,vuejs,nodejs,mongodb,mysql,aws,git,css,postman)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,vuejs,nodejs,mongodb,mysql,aws,git,css,postman)](https://skills.thijs.gg)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=repzlaw&&theme=tokyonight" alt="repzlaw" /></p>
