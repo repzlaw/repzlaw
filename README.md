@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 Check me out on LinkedIN @ https://www.linkedin.com/in/david-ibitoye-1677a0123/ ... -->
 
 ![Github Stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=repzlaw&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=repzlaw&theme=radical&count_private=true&show_icons=true&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=repzlaw&theme=radical&count_private=true&show_icons=true&langs_count=5)
 
 <h3 align="left">Languages and Tools:</h3>
 
