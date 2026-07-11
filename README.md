@@ -8,6 +8,8 @@
     <img src="./images/opensource.jpeg" width="45%" alt="Open Source" />
   </a>
 
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.codementor.io/@davidibitoye?refer=badge">
     <img src="https://www.codementor.io/m-badges/davidibitoye/im-a-cm-b.svg" width="45%" alt="Contact me on Codementor" />
   </a>
