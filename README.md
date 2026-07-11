@@ -1,7 +1,17 @@
 <!-- ### Hi there 👋 -->
-<p align=""><a href="#"><img width="40%" src="./images/opensource.jpeg" /></a></p>
+<!-- <p align=""><a href="#"><img width="40%" src="./images/opensource.jpeg" /></a></p>
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/davidibitoye/im-a-cm-b.svg)](https://www.codementor.io/@davidibitoye?refer=badge)
+[![Contact me on Codementor](https://www.codementor.io/m-badges/davidibitoye/im-a-cm-b.svg)](https://www.codementor.io/@davidibitoye?refer=badge) -->
+
+<p align="center">
+  <a href="#">
+    <img src="./images/opensource.jpeg" width="45%" alt="Open Source" />
+  </a>
+
+  <a href="https://www.codementor.io/@davidibitoye?refer=badge">
+    <img src="https://www.codementor.io/m-badges/davidibitoye/im-a-cm-b.svg" width="45%" alt="Contact me on Codementor" />
+  </a>
+</p>
 
 <!--
 **repzlaw/repzlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
